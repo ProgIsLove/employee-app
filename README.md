@@ -39,7 +39,7 @@ The following items should be installed in your system:
     spring.datasource.password=password
      
     ```
-  4) Open terminal
+ 4) Open terminal
   
     ```
     ${yourPath}/employee-app>mvn clean install
