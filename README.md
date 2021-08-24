@@ -40,6 +40,7 @@ The following items should be installed in your system:
      
     ```
   4) Open terminal
+  
     ```
     ${yourPath}/employee-app>mvn clean install
     
