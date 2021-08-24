@@ -31,22 +31,22 @@ The following items should be installed in your system:
     ${yourPath}/employee_information_system/employee_server/src/main/resources/application.properties and 
     setup your MySQL configuration
 
-   ```
+    ```
     Example:
     
     spring.datasource.url=jdbc:mysql://localhost:3306/employeemanager
     spring.datasource.username=root
     spring.datasource.password=password
      
-   ```
+    ```
   4) Open terminal
-   ```
+    ```
     ${yourPath}/employee-app>mvn clean install
     
     ${yourPath}/emloyee-app/employee_server/target>java -jar employee_server-0.0.1-SNAPSHOT.jar
      
-   ```
-   
+    ```
+    
 ###  Visit http://localhost:8080/nhl in your browser
 
   5) Enjoy <3
