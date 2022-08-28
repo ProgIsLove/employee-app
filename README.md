@@ -48,7 +48,7 @@ The following items should be installed in your system:
      
     ```
     
-###  Visit http://localhost:8080/nhl in your browser
+###  Visit http://localhost:8080 in your browser
 
   5) Enjoy <3
 
